@@ -1,2 +1,2 @@
-# time-series-similarity-search-within-subsequences
-An application implementing the SPRING algorithm for subse
+# time-series-similarity-search
+An application implementing the SPRING algorithm for similarity search within subsequences.
